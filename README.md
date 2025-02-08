@@ -1,4 +1,4 @@
-# webgl-gallery
+# webgl-gallery [![Netlify Status](https://api.netlify.com/api/v1/badges/d89d4b0c-d479-495d-8f40-6a1f0114fccd/deploy-status)](https://app.netlify.com/sites/gl-gallery-waqas/deploys)
 
 practice of webgl(threejs and glsl)
 
